@@ -1,7 +1,5 @@
 # Bonfire governance & value distribution [draft]
 
-[TOC]
-
 ## Objectives
 * Create heterogeneous and fair spaces for humans to work together. 
 * Welcome new participants to contribute and get involved according to their skills and preferences.
